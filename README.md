@@ -80,4 +80,6 @@ Integrated Grafana monitoring to enhance system reliability and ensure operation
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhik443&show_icons=true)
+## 📊 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhik443&show_icons=true&theme=default)

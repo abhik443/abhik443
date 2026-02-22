@@ -77,7 +77,7 @@ Integrated Grafana monitoring to enhance system reliability and ensure operation
 
 ---
 
-⭐ "Consistency is more important than motivation."
+
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhik443&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhik443&show_icons=true)
